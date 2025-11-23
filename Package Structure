@@ -1,0 +1,12 @@
+src/
+ └── main/
+     ├── exceptions/
+     │     └── StudentNotFoundException.java
+     ├── model/
+     │     ├── Person.java
+     │     └── Student.java
+     ├── util/
+     │     └── LoadingThread.java
+     ├── manager/
+     │     └── StudentManager.java
+     └── Main.java
